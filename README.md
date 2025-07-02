@@ -2,6 +2,8 @@
 
 **Strawe** là một mạng xã hội nhỏ gọn được phát triển bằng PHP thuần. Dự án bao gồm các tính năng cơ bản như đăng ký, đăng nhập, đăng bài, trang cá nhân, tìm kiếm, xác minh tài khoản, và bảng điều khiển admin.
 
+> Preview: [https://strawe.kesug.com](http://strawe.kesug.com)
+
 ---
 
 ## 📂 Cấu trúc dự án
