@@ -80,7 +80,8 @@ $dbname = "strawe";
 
 
 >▪︎Gợi ý một số hosting (nếu cần):
->-[InfinityFree](https://app.infinityfree.net)
+>
+-[InfinityFree](https://app.infinityfree.net)
 >- [Byethost](https://byet.host)
 >- [AeonFree](https://aeonfree.com)
 >- [123host](https://123host.vn)
