@@ -83,7 +83,7 @@ $dbname = "strawe";
 >- [InfinityFree](https://app.infinityfree.net)
 >- [Byethost](https://byet.host)
 >- [AeonFree](https://aeonfree.com)
->- [123host](https://123host.vn)
+>- [123host](https://123host.vn/hosting-mien-phi.html)
 
 ---
 
