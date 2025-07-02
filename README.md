@@ -1,6 +1,6 @@
-# Strawe - Mạng xã hội PHP đơn giản
+# Strawe Social
 
-**Strawe** là một mạng xã hội nhỏ gọn được phát triển bằng PHP thuần, dành cho mục đích học tập và phát triển cá nhân. Dự án bao gồm các tính năng cơ bản như đăng ký, đăng nhập, đăng bài, trang cá nhân, tìm kiếm, xác minh tài khoản, và bảng điều khiển admin.
+**Strawe** là một mạng xã hội nhỏ gọn được phát triển bằng PHP thuần. Dự án bao gồm các tính năng cơ bản như đăng ký, đăng nhập, đăng bài, trang cá nhân, tìm kiếm, xác minh tài khoản, và bảng điều khiển admin.
 
 ---
 
