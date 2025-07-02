@@ -63,23 +63,25 @@ strawe-social/
 
 3. Cấu hình kết nối database Mở config/database.php và cập nhật thông tin:
 
-```
+  ```
 $host = "localhost";
 $user = "root";
 $pass = "";
 $dbname = "strawe";
-```
+  ```
 
-4. Chạy project Trỏ trình duyệt đến thư mục chứa mã nguồn, ví dụ: http://localhost/strawe-social
+4. Chạy project Trỏ trình duyệt đến thư mục chứa mã nguồn, ví dụ: 
 
-
+  ```
+http://localhost/strawe-social
+  ```
 
 
 ---
 
 📄 Giấy phép
 
-Dự án được phát hành theo giấy phép MIT License.
+Dự án được phát hành theo giấy phép [MIT License](LICENSE).
 
 
 ---
