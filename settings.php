@@ -115,7 +115,7 @@ if (isset($_GET['logout'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cài đặt - Strawe</title>
+    <title>Cài đặt - Thazh Social</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -209,7 +209,7 @@ if (isset($_GET['logout'])) {
                     <?php if (!$current_user['is_verified']): ?>
                         <a href="verify_accounts.php" class="btn btn-primary">Gửi yêu cầu xác nhận tài khoản</a>
                     <?php else: ?>
-                        <p style="color: #657786;">Tài khoản của bạn đã được xác nhận. Cảm ơn bạn đã tin tưởng Strawe!</p>
+                        <p style="color: #657786;">Tài khoản của bạn đã được xác nhận. Cảm ơn bạn đã tin tưởng Thazh Social!</p>
                         
                         <?php if (!$current_user['is_admin']): ?>
                             <form method="POST" style="margin-top: 15px;">

@@ -37,13 +37,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đăng nhập - Strawe</title>
+    <title>Đăng nhập - Thazh Social</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <div class="auth-container">
         <div class="auth-card">
-            <h1 class="auth-title">Strawe</h1>
+            <h1 class="auth-title">Thazh Social</h1>
             <h2>Đăng nhập</h2>
             
             <?php if ($error): ?>

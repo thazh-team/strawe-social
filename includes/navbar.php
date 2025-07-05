@@ -11,7 +11,7 @@ $current_user = getCurrentUser();
                     <path d="M16 2L29 9V23L16 30L3 23V9L16 2Z" stroke="currentColor" stroke-width="2" fill="none"/>
                     <path d="M16 10L23 14V22L16 26L9 22V14L16 10Z" fill="currentColor"/>
                 </svg>
-                <h2>Strawe</h2>
+                <h2>Thazh Social</h2>
             </a>
         </div>
         

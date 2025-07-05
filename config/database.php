@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'strawe';
+$dbname = 'thazh_social';
 $username = 'root';
 $password = '';
 

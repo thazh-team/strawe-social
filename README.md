@@ -1,15 +1,15 @@
-# Strawe Social
+# Thazh Social
 
-**Strawe** là một mạng xã hội nhỏ gọn được phát triển bằng PHP thuần. Dự án bao gồm các tính năng cơ bản như đăng ký, đăng nhập, đăng bài, trang cá nhân, tìm kiếm, xác minh tài khoản, và bảng điều khiển admin.
+**Thazh Social** là một mạng xã hội nhỏ gọn được phát triển bằng PHP thuần với tiếng Việt. Dự án bao gồm các tính năng cơ bản như đăng ký, đăng nhập, đăng bài, trang cá nhân, tìm kiếm, xác minh tài khoản, và bảng điều khiển admin.
 
-> Preview: [https://strawe.kesug.com](http://strawe.kesug.com)
+> Preview: Triển khai trên InfinityFree
 
 ---
 
 ## 📂 Cấu trúc dự án
 
 ```
-strawe-social/ 
+thazh-social/ 
 ├── assets/               # Tài nguyên: ảnh, CSS, JS 
 │   ├── css/style.css     # Giao diện chính 
 │   ├── js/main.js        # JavaScript chính 
@@ -30,6 +30,7 @@ strawe-social/
 ├── settings.php          # Cài đặt tài khoản 
 ├── verify_accounts.php   # Xác minh người dùng (tick xanh) 
 ├── admin_dashboard.php   # Bảng điều khiển Admin 
+├── database.sql          # File cấu trúc database
 └── .htaccess             # Cấu hình rewrite URL
 ```
 ---
@@ -69,13 +70,15 @@ strawe-social/
   $host = "localhost";
 $user = "root";
 $pass = "";
-$dbname = "strawe";
+$dbname = "thazh_social";
   ```
 
-4. Chạy project Trỏ trình duyệt đến thư mục chứa mã nguồn, ví dụ: 
+4. Import database Chạy file database.sql trong MySQL để tạo cấu trúc bảng
+
+5. Chạy project Trỏ trình duyệt đến thư mục chứa mã nguồn, ví dụ: 
 
   ```
-  http://localhost/strawe-social
+  http://localhost/thazh-social
   ```
 
 
