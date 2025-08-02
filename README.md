@@ -60,6 +60,7 @@ strawe-social/
    ```bash
    git clone https://github.com/thazh-team/strawe-social.git
    ```
+ > - [📥 Download Relaese](https://github.com/thazh-team/strawe-social/releases)
 2. Tạo cơ sở dữ liệu và import file SQL (nếu có)
 
 
