@@ -1,21 +1,30 @@
-MIT License
+THAZH LICENSE
 
-Copyright (c) 2025 Thazh Team
+Copyright (c) 2025 THAZH TEAM
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Điều khoản sử dụng
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Bất kỳ ai cũng có thể sử dụng, sao chép, sửa đổi và phân phối phần mềm này và các tệp tài liệu liên quan (gọi chung là "Phần mềm") miễn phí, với điều kiện tuân thủ các điều khoản sau:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 1. Ghi nguồn bắt buộc
+- Khi sử dụng, sao chép, sửa đổi hoặc phân phối Phần mềm, bạn PHẢI giữ nguyên thông báo bản quyền này và LICENSE trong tất cả các bản sao hoặc phần quan trọng của Phần mềm.
+- Khi sử dụng Phần mềm trong sản phẩm của mình, bạn PHẢI ghi rõ nguồn gốc và tác giả gốc trong tài liệu, về chúng tôi, hoặc phần credit của sản phẩm.
+
+### 2. Sử dụng hợp pháp
+- Phần mềm chỉ được sử dụng cho các mục đích hợp pháp.
+- NGHIÊM CẤM sử dụng Phần mềm cho các hoạt động bất hợp pháp, có hại, hoặc vi phạm pháp luật của bất kỳ quốc gia nào.
+
+### 3. Hạn chế thương mại
+- NGHIÊM CẤM bán trực tiếp mã nguồn này dưới dạng nguyên bản.
+- NGHIÊM CẤM chia sẻ, phân phối lại mà không ghi rõ nguồn gốc và tác giả.
+- Việc sử dụng Phần mềm trong các sản phẩm thương mại được cho phép, nhưng PHẢI tuân thủ điều khoản ghi nguồn ở trên.
+
+### 4. Từ chối trách nhiệm
+PHẦN MỀM ĐƯỢC CUNG CẤP "NHƯ VẬY", KHÔNG CÓ BẤT KỲ BẢO HÀNH NÀO, RÕ RÀNG HAY NGẦM ĐỊNH, BAO GỒM NHƯNG KHÔNG GIỚI HẠN CÁC BẢO HÀNH VỀ KHẢ NĂNG BÁN ĐƯỢC, PHÙ HỢP CHO MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM. TRONG MỌI TRƯỜNG HỢP, TÁC GIẢ HOẶC CHỦ SỞ HỮU BẢN QUYỀN SẼ KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI BẤT KỲ KHIẾU NẠI, THIthiệt HẠI HOẶC TRÁCH NHIỆM PHÁP LÝ NÀO KHÁC.
+
+### 5. Vi phạm điều khoản
+Nếu vi phạm bất kỳ điều khoản nào trong LICENSE này, quyền sử dụng Phần mềm của bạn sẽ tự động bị chấm dứt.
+
+---
+
+*Bằng việc sử dụng Phần mềm này, bạn đồng ý tuân thủ tất cả các điều khoản và điều kiện của LICENSE này.*
