@@ -90,7 +90,7 @@ $dbname = "strawe";
 
 📄 Giấy phép
 
-Dự án được phát hành theo giấy phép [MIT License](LICENSE).
+Dự án được phát hành theo giấy phép [License](LICENSE).
 
 
 ---
